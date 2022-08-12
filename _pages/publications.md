@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 * [eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data](https://academic.oup.com/bib/article-abstract/23/1/bbab497/6457165?redirectedFrom=fulltext)
 
   **Yingxi Yang**, Yuchen Yang, Le Huang, Jai G. Broome, Adolfo Correa, Alexander Reiner, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Laura M. Raffield, Yun Li
