@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaylee Yang"
+title                    : "Kaylee (Yingxi) Yang"
 title_separator          : "-"
-name                     : &name "Kaylee Yang"
+name                     : &name "Kaylee (Yingxi) Yang"
 description              : &description "personal description"
 url                      : https://yingxi-kaylee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Kaylee Yang"
-  avatar           : "profile.png"
+  avatar           : "kaylee-photo-copy.jpg"
   bio              : "PhD student in Statistics at Yale"
-  location         : "New Haven, CT, USA"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yingxi.yang@yale.edu"
+  email            : yingxi.yang@yale.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kaylee-yang-57b76218b/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
