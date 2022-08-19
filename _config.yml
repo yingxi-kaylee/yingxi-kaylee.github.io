@@ -86,7 +86,7 @@ author:
   location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : yingxi.yang@yale.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kaylee-yang-57b76218b/"
+  linkedin         : "kaylee-yingxi-yang"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
