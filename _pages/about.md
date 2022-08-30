@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University, working with [Prof. Andre Wibisono](http://www.cs.yale.edu/homes/wibisono/) on theoretical analysis
+I am a second-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University, working with [Prof. Andre Wibisono](http://www.cs.yale.edu/homes/wibisono/) on theoretical analysis
 of machine learning algorithms, in particular for problems in optimization and sampling.
 
 Prior to Yale, I was an undergraduate student at Sun Yat-Sen University studying
