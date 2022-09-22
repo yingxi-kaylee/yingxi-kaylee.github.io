@@ -13,7 +13,7 @@ of machine learning algorithms, in particular for problems in optimization and s
 
 Prior to Yale, I was an undergraduate student at Sun Yat-Sen University studying
 Statistics and Logic. In my junior and senior years, I worked on machine learning
-applications in genetics with Prof. Liming Liang at Harvard University and Prof. Yun Li at University of North Carolina, Chapel Hill.
+applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/liming-liang/) at Harvard University and [Prof. Yun Li](https://yunliweb.its.unc.edu/) at University of North Carolina, Chapel Hill.
 
 ## Research Interests
 * Machine learning theory
