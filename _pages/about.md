@@ -17,14 +17,15 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 
 ## Research Interests
 * Machine learning theory
-* Optimization
 * Sampling
+* Optimization
+
 
 ## Publications
 * [Convergence in KL Divergence of the Inexact Langevin Algorithm with Application to Score-based Generative Models](https://arxiv.org/abs/2211.01512)\\
   Andre Wibisono, **Kaylee Y. Yang** (alphabetical order)
 
-* [Convergence in KL and Rényi Divergence of the Unadjusted Langevin Algorithm Using Estimated Score]\\
+* Convergence in KL and Rényi Divergence of the Unadjusted Langevin Algorithm Using Estimated Score\\
   **Kaylee Y. Yang**, Andre Wibisono\\
   *NeurIPS Workshop on Score-Based Methods, 2022*
 
@@ -35,10 +36,6 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 * [eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data](https://academic.oup.com/bib/article-abstract/23/1/bbab497/6457165?redirectedFrom=fulltext)\\
   **Yingxi Yang**, Yuchen Yang, Le Huang, Jai G. Broome, Adolfo Correa, Alexander Reiner, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Laura M. Raffield, Yun Li\\
   *Briefings in Bioinformatics, December 2021*
-  
-* [iSMNN: batch effect correction for single-cell RNA-seq data via iterative supervised mutual nearest neighbor refinement](https://pubmed.ncbi.nlm.nih.gov/33839756/)\\
-  Yuchen Yang, Gang Li, Yifang Xie, Li Wang, Taylor M. Lagler, **Yingxi Yang**, Jiandong Liu, Li Qian, Yun Li\\
-  *Briefings in Bioinformatics, April 2021*
 
 ## Teaching Fellow
 
