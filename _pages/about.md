@@ -21,7 +21,7 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 * Optimization
 
 
-## Selected Publications
+## Publications
 ### PhD Work
 * [Convergence in KL Divergence of the Inexact Langevin Algorithm with Application to Score-based Generative Models](https://arxiv.org/abs/2211.01512)\\
   Andre Wibisono, **Kaylee Y. Yang** (alphabetical order)
