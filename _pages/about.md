@@ -21,7 +21,8 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 * Optimization
 
 
-## Publications
+## Selected Publications
+### PhD Work
 * [Convergence in KL Divergence of the Inexact Langevin Algorithm with Application to Score-based Generative Models](https://arxiv.org/abs/2211.01512)\\
   Andre Wibisono, **Kaylee Y. Yang** (alphabetical order)
 
@@ -29,7 +30,8 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
   **Kaylee Y. Yang**, Andre Wibisono\\
   *NeurIPS Workshop on Score-Based Methods, 2022*
 
-* [MagicalRsq: Machine-learning-based genotype imputation quality calibratio](https://www.sciencedirect.com/science/article/pii/S0002929722004128)\\
+### Undergraduate Work
+* [MagicalRsq: Machine-learning-based Genotype Imputation Quality Calibratio](https://www.sciencedirect.com/science/article/pii/S0002929722004128)\\
   Quan Sun, **Yingxi Yang**, Jonathan D. Rosen, Min-Zhi Jiang, Jiawen Chen, Weifang Liu, Jia Wen, Laura M. Raffield, Rhonda G. Pace, Yi-Hui Zhou, Fred A. Wright, Scott M. Blackman, Michael J. Bamshad, Ronald L. Gibson, Garry R. Cutting, Michael R. Knowles, Daniel R. Schrider, Christian Fuchsberger, Yun Li\\
   *American Journal of Human Genetics, November 2022*
   
