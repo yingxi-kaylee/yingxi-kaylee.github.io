@@ -11,14 +11,13 @@ redirect_from:
 I am a second-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University, working with [Prof. Andre Wibisono](http://www.cs.yale.edu/homes/wibisono/) on theoretical analysis
 of machine learning algorithms, in particular for problems in sampling.
 
-Prior to Yale, I was an undergraduate student at Sun Yat-Sen University studying
-Statistics and Logic. In my junior and senior years, I worked on machine learning
-applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/liming-liang/) at Harvard University and [Prof. Yun Li](https://yunliweb.its.unc.edu/) at University of North Carolina, Chapel Hill.
+Prior to Yale, I was an undergraduate student studying statistics and logic at Sun Yat-Sen University (SYSU) in Guangzhou, China. In Spring 2019, I spent one semester at UC Berkeley as an exchange student, studying statistics and mathematics. In my junior and senior years, I worked on machine learning
+applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/liming-liang/) at Harvard University and [Prof. Yun Li](https://yunliweb.its.unc.edu/) at University of North Carolina, Chapel Hill. In June 2021, I graduated from SYSU with a Bachelor of Science in Statistics and a Bachelor of Philosophy in Logic.
 
 ## Research Interests
 * Machine learning theory
 * Sampling
-* Optimization
+* Generative modeling
 
 
 ## Publications
@@ -26,9 +25,9 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 * [Convergence in KL Divergence of the Inexact Langevin Algorithm with Application to Score-based Generative Models](https://arxiv.org/abs/2211.01512)\\
   Andre Wibisono, **Kaylee Y. Yang** (alphabetical order)
 
-* Convergence in KL and Rényi Divergence of the Unadjusted Langevin Algorithm Using Estimated Score\\
+* [Convergence in KL and Rényi Divergence of the Unadjusted Langevin Algorithm Using Estimated Score](https://openreview.net/forum?id=RSNMAMiPFTM) [[Poster]](https://drive.google.com/file/d/1iyphWtcgMVUJA3lH5SSGDO0AUl7jb_ql/view?usp=share_link)\\
   **Kaylee Y. Yang**, Andre Wibisono\\
-  *NeurIPS Workshop on Score-Based Methods, 2022*
+  *NeurIPS 2022 Workshop on Score-Based Methods*
 
 ### Undergraduate Work
 * [MagicalRsq: Machine-learning-based Genotype Imputation Quality Calibratio](https://www.sciencedirect.com/science/article/pii/S0002929722004128)\\
