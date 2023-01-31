@@ -40,5 +40,8 @@ applications in genetics with [Prof. Liming Liang](https://www.hsph.harvard.edu/
 
 ## Teaching Fellow
 
-* S&DS 631 Optimization and Computation, 2022 Fall
+* S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Prof. Zhuoran Yang
+
+* S&DS 364/664 Information Theory, 2023 Spring
+  * Instructor: Prof. Andrew Barron
