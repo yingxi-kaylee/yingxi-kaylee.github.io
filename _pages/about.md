@@ -37,13 +37,13 @@ Email: yingxi.yang@yale.edu
 
 ## Teaching Experience
 
-* TA, S&DS 265/565 Introductory Machine Learning, 2023 Spring
+* TA, S&DS 265/565 Introductory Machine Learning, 2023 Fall
   * Instructor: Prof. John Lafferty
-  
-* TA, S&DS 431/631 Optimization and Computation, 2022 Fall
-  * Instructor: Prof. Zhuoran Yang
 
 * TA, S&DS 364/664 Information Theory, 2023 Spring
   * Instructor: Prof. Andrew Barron
 
+* TA, S&DS 431/631 Optimization and Computation, 2022 Fall
+  * Instructor: Prof. Zhuoran Yang
+  
 Last updated: Sep 29, 2023
