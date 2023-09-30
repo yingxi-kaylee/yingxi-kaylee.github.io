@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaylee Yang"
   avatar           : "kaylee-photo-copy.jpg"
-  bio              : "PhD student in Statistics at Yale"
+  bio              : "Statistics PhD Student at Yale"
   location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TK2i1iYAAAAJ&hl=en"
-  email            : yingxi.yang@yale.edu
+  email            : #yingxi.yang@yale.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
