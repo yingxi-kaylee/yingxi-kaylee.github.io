@@ -16,8 +16,12 @@ Prior to Yale, I got my BS in Statistics and BPhil in Logic from Sun Yet-Sen Uni
 
 Email: yingxi.yang@yale.edu
 
-## Publications
-### Sampling
+## Recent Publications and Preprints <span style="font-size: 70%; font-weight: normal;">(\*: alphabetical)</span>
+
+
+* [Optimal score estimation via empirical Bayes smoothing](https://arxiv.org/abs/2402.07747)\\
+  Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***
+
 * [Convergence of the Inexact Langevin Algorithm and Score-based Generative Models in KL Divergence](https://arxiv.org/abs/2211.01512)\\
   **Kaylee Y. Yang**, Andre Wibisono
 
@@ -25,7 +29,9 @@ Email: yingxi.yang@yale.edu
   **Kaylee Y. Yang**, Andre Wibisono\\
   *NeurIPS 2022 Workshop on Score-Based Methods*
 
-### ML applications in genetics
+See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&hl=en) for a complete publication list.
+
+<!-- ### ML applications in genetics
 (I use my Chinese first name Yingxi for works in this section which were done during my undergraduate study.)
 * [MagicalRsq: Machine-learning-based Genotype Imputation Quality Calibration](https://www.sciencedirect.com/science/article/pii/S0002929722004128)\\
   Quan Sun, **Yingxi Yang**, Jonathan D. Rosen, Min-Zhi Jiang, Jiawen Chen, Weifang Liu, Jia Wen, Laura M. Raffield, Rhonda G. Pace, Yi-Hui Zhou, Fred A. Wright, Scott M. Blackman, Michael J. Bamshad, Ronald L. Gibson, Garry R. Cutting, Michael R. Knowles, Daniel R. Schrider, Christian Fuchsberger, Yun Li (2022)\\
@@ -34,16 +40,20 @@ Email: yingxi.yang@yale.edu
 * [eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data](https://academic.oup.com/bib/article-abstract/23/1/bbab497/6457165?redirectedFrom=fulltext)\\
   **Yingxi Yang**, Yuchen Yang, Le Huang, Jai G. Broome, Adolfo Correa, Alexander Reiner, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Laura M. Raffield, Yun Li\\
   *Briefings in Bioinformatics, December 2021*
+ -->
 
 ## Teaching Experience
 
+* TA, S&DS 242/542 Theory of Statistics, 2024 Spring
+  * Instructor: Dr. Robert Wooster
+
 * TA, S&DS 265/565 Introductory Machine Learning, 2023 Fall
-  * Instructor: Prof. John Lafferty
+  * Instructor: Dr. John Lafferty
 
 * TA, S&DS 364/664 Information Theory, 2023 Spring
-  * Instructor: Prof. Andrew Barron
+  * Instructor: Dr. Andrew Barron
 
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
-  * Instructor: Prof. Zhuoran Yang
+  * Instructor: Dr. Zhuoran Yang
   
-Last updated: Sep 29, 2023
+Last updated: Feb 13, 2024
