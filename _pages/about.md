@@ -16,8 +16,9 @@ Prior to Yale, I got my BS in Statistics and BPhil in Logic from Sun Yet-Sen Uni
 
 Email: yingxi.yang@yale.edu
 
-## Recent Publications and Preprints <span style="font-size: 70%; font-weight: normal;">(\*: alphabetical)</span>
+## Recent Publications and Preprints
 
+\*: alphabetical
 
 * [Optimal score estimation via empirical Bayes smoothing](https://arxiv.org/abs/2402.07747)\\
   Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***
