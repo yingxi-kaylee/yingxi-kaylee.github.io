@@ -20,13 +20,16 @@ Email: yingxi.yang@yale.edu
 
 \*: alphabetical
 
+* [Asymptotic mutual information in quadratic estimation problems over compact groups](https://arxiv.org/abs/2404.10169)\\
+  **Kaylee Y. Yang**, Timothy L. H. Wee, Zhou Fan
+
 * [Optimal score estimation via empirical Bayes smoothing](https://arxiv.org/abs/2402.07747)\\
   Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***
 
-* [Convergence of the Inexact Langevin Algorithm and Score-based Generative Models in KL Divergence](https://arxiv.org/abs/2211.01512)\\
+* [Convergence of the inexact Langevin algorithm and score-based generative models in KL divergence](https://arxiv.org/abs/2211.01512)\\
   **Kaylee Y. Yang**, Andre Wibisono
 
-* [Convergence in KL and Rényi Divergence of the Unadjusted Langevin Algorithm Using Estimated Score](https://openreview.net/forum?id=RSNMAMiPFTM) [[Poster]](https://drive.google.com/file/d/1iyphWtcgMVUJA3lH5SSGDO0AUl7jb_ql/view?usp=share_link) (preliminary version of the preprint above)\\
+* [Convergence in KL and Rényi divergence of the unadjusted Langevin algorithm using estimated score](https://openreview.net/forum?id=RSNMAMiPFTM) [[Poster]](https://drive.google.com/file/d/1iyphWtcgMVUJA3lH5SSGDO0AUl7jb_ql/view?usp=share_link) (preliminary version of the preprint above)\\
   **Kaylee Y. Yang**, Andre Wibisono\\
   *NeurIPS 2022 Workshop on Score-Based Methods*
 
@@ -57,4 +60,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: Feb 13, 2024
+Last updated: April 18, 2024
