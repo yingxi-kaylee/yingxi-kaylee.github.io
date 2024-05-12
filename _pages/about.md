@@ -24,7 +24,8 @@ Email: yingxi.yang@yale.edu
   **Kaylee Y. Yang**, Timothy L. H. Wee, Zhou Fan
 
 * [Optimal score estimation via empirical Bayes smoothing](https://arxiv.org/abs/2402.07747)\\
-  Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***
+  Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***\\
+  *COLT 2024*
 
 * [Convergence of the inexact Langevin algorithm and score-based generative models in KL divergence](https://arxiv.org/abs/2211.01512)\\
   **Kaylee Y. Yang**, Andre Wibisono
@@ -60,4 +61,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: April 18, 2024
+Last updated: May 12, 2024
