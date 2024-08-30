@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a third-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University. I am very fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My current research interests lie in the intersection of theoretical statistics and machine learning theory, with a recent focus on statistical physics and sampling algorithms.
+I am a fourth-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University. I am very fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My current research interests lie in the intersection of theoretical statistics and machine learning theory, with a recent focus on statistical physics and sampling algorithms.
 
 Prior to Yale, I got my BS in Statistics and BPhil in Logic from Sun Yet-Sen University (SYSU) in Guangzhou China. During my junior and senior years, I worked on machine learning applications in genetics with Prof. Liming Liang at Harvard Biostatistics and Prof. Yun Li at University of North Carolina, Chapel Hill (UNC-CH) Biostatistics.
 
@@ -49,6 +49,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 
 ## Teaching Experience
 
+* TA, S&DS 365/665 Intermediate Machine Learning, 2024 Fall
+  * Instructor: Dr. John Lafferty
+  
 * TA, S&DS 242/542 Theory of Statistics, 2024 Spring
   * Instructor: Dr. Robert Wooster
 
@@ -61,4 +64,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: May 12, 2024
+Last updated: August 29, 2024
