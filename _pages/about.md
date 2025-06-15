@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
+Hi! Welcome to my homepage.
 
-I am a fourth-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University. I am very fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My current research interests lie in the intersection of theoretical statistics and machine learning theory, with a recent focus on statistical physics and sampling algorithms.
+My name is Kaylee. I am a fourth-year PhD student in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University. I am very fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My research interests broadly lie at the intersection of high-dimensional statistics, the theory of machine learning, and statistical physics.
 
-Prior to Yale, I got my BS in Statistics and BPhil in Logic from Sun Yet-Sen University (SYSU) in Guangzhou China. During my junior and senior years, I worked on machine learning applications in genetics with Prof. Liming Liang at Harvard Biostatistics and Prof. Yun Li at University of North Carolina, Chapel Hill (UNC-CH) Biostatistics.
+
+<!-- Prior to Yale, I got my BS in Statistics and BPhil in Logic from Sun Yet-Sen University (SYSU) in Guangzhou China. During my junior and senior years, I worked on machine learning applications in genetics with Prof. Liming Liang at Harvard Biostatistics and Prof. Yun Li at University of North Carolina, Chapel Hill (UNC-CH) Biostatistics.
+-->
 
 Email: yingxi.yang@yale.edu
 
@@ -21,11 +23,12 @@ Email: yingxi.yang@yale.edu
 \*: alphabetical
 
 * [Asymptotic mutual information in quadratic estimation problems over compact groups](https://arxiv.org/abs/2404.10169)\\
-  **Kaylee Y. Yang**, Timothy L. H. Wee, Zhou Fan
+  **Kaylee Y. Yang**, Timothy L. H. Wee, Zhou Fan\\
+  *Information and Inference, 2025, to appear*
 
 * [Optimal score estimation via empirical Bayes smoothing](https://arxiv.org/abs/2402.07747)\\
   Andre Wibisono, Yihong Wu, **Kaylee Y. Yang\***\\
-  *COLT 2024*
+  *Conference on Learning Theory (COLT), 2024*
 
 * [Convergence of the inexact Langevin algorithm and score-based generative models in KL divergence](https://arxiv.org/abs/2211.01512)\\
   **Kaylee Y. Yang**, Andre Wibisono
@@ -64,4 +67,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: August 29, 2024
+Last updated: Jun 14, 2025
