@@ -12,7 +12,7 @@ Hi! Welcome to my homepage.
 
 My name is Kaylee. I recently received my PhD from the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University, where I was fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My research interests broadly lie at the intersection of high-dimensional statistics, the theory of machine learning, and statistical physics.
 
-Email: yingxi.yang@yale.edu
+Email: yingxi.yang@yale.edu, kayleeyyang@gmail.com
 
 ## Recent Publications and Preprints
 
@@ -38,6 +38,12 @@ Email: yingxi.yang@yale.edu
 
 See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&hl=en) for a complete publication list.
 
+## Thesis
+
+* [From High-Dimensional Bayesian Inference to Generative Models: Information, Computation, and Optimality](https://www.proquest.com/openview/b7a0406a38a0ab0a3ab113e4c18c26b4/1?pq-origsite=gscholar&cbl=18750&diss=y)\\
+  Ph.D. dissertation, Dept of Statistics and Data Science, Yale University, May 2026\\
+  *Francis J. Anscombe Award*
+
 ## Teaching Experience
 
 * TA, S&DS 365/665 Intermediate Machine Learning, 2024 Fall
@@ -55,4 +61,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: July, 2026
+Last updated: July 2026
