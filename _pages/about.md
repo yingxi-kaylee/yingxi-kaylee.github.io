@@ -10,13 +10,16 @@ redirect_from:
 
 Hi! Welcome to my homepage.
 
-My name is Kaylee. I am a PhD candidate in the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University. I am very fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My research interests broadly lie at the intersection of high-dimensional statistics, the theory of machine learning, and statistical physics.
+My name is Kaylee. I recently received my PhD from the [Department of Statistics & Data Science](https://statistics.yale.edu/) at Yale University, where I was fortunate to be advised by Prof. [Zhou Fan](http://www.stat.yale.edu/~zf59/) and Prof. [Andre Wibisono](http://www.cs.yale.edu/homes/wibisono). My research interests broadly lie at the intersection of high-dimensional statistics, the theory of machine learning, and statistical physics.
 
 Email: yingxi.yang@yale.edu
 
 ## Recent Publications and Preprints
 
 \*: alphabetical
+
+* [Bayesian inference of planted matchings: Local posterior approximation and infinite-volume limit](https://arxiv.org/abs/2603.08542)\\
+  Zhou Fan\*, Timothy L. H. Wee\*, **Kaylee Y. Yang\***
 
 * [Asymptotic mutual information in quadratic estimation problems over compact groups](https://arxiv.org/abs/2404.10169)\\
   **Kaylee Y. Yang**, Timothy L. H. Wee, Zhou Fan\\
@@ -52,4 +55,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=TK2i1iYAAAAJ&h
 * TA, S&DS 431/631 Optimization and Computation, 2022 Fall
   * Instructor: Dr. Zhuoran Yang
   
-Last updated: Feb 26, 2026
+Last updated: July, 2026
